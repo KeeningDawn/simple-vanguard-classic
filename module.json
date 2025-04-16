@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "simple-vanguard-classic",
+	"author": "Dawn",
+	"version": "1.0",
+	"description": "A mod to automatically turn in Vanguard Initiative Requests upon completion.",
+	"options": {
+		"cliName": "SimpleVG-Classic",
+		"guiName": "Simple Vanguard (Classic)"
+	},
+	"servers": ["https://raw.githubusercontent.com/KeeningDawn/simple-vanguard-classic/main/"],
+	"conflicts": ["vanguardian","auto-vanguard"]
+}
